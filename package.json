@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dynamiccast/sails-json-api-blueprints.git"
+    "url": "git+https://github.com/leojpod/sails-json-api-blueprints.git"
   },
   "keywords": [
     "sails.js",
@@ -18,12 +18,12 @@
     "json-api",
     "ember.js"
   ],
-  "author": "Olivier Berthonneau <berthonneau.olivier@gmail.com>",
+  "author": "leojpod <https://github.com/leojpod>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/dynamiccast/sails-json-api-blueprints/issues"
+    "url": "https://github.com/leojpod/sails-json-api-blueprints/issues"
   },
-  "homepage": "https://github.com/dynamiccast/sails-json-api-blueprints#readme",
+  "homepage": "https://github.com/leojpod/sails-json-api-blueprints#readme",
   "dependencies": {
     "json-api-serializer": "1.1.2",
     "jsonapi-validator": "^2.0.0",
